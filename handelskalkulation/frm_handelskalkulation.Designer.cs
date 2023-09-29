@@ -24,7 +24,7 @@
 
         /// <summary>
         /// Erforderliche Methode für die Designerunterstützung.
-        /// Der Inhalt der Methode darf nicht mit dem Code-Editor geändert werden.
+        /// Der Inhalt der Methode darf nicht mit dem Code-Editor geändert werden. bbdfhdffhfgfhaidfhsefwe
         /// </summary>
         private void InitializeComponent()
         {
